@@ -1,0 +1,26 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                     Nutanix Objects
+
+Introduction
+*Nutanix Objects™ (Objects) is a software-defined Object Store Service. This service is designed with an Amazon Web Services Simple Storage Service (AWS S3) compatible REST API interface capable of handling petabytes of unstructured and machine-generated data. Objects addresses storage-related use cases for backup, and long-term retention and data storage for your cloud-native applications by using standard S3 APIs. You no longer have to introduce an external, separately managed storage solution.
+Project Summary
+Website	https://www.nutanix.com/products/objects
+Organization/Foundation Name	Cloud Native Computing Foundation
+License	https://www.nutanix.com/legal/terms-of-use
+Proprietary	nutanix
+	
+	
+
+Project Details :
+
+Key Features
+Ensure compliance and data protection
+Support any workload from a single platform
+Enhance data visibility with tagging and versioning
+Architecture
+Current Usage
+•	Department of Work and Pension
+•	The Home Depot
+•	Total S.A.
+•	Mercedes-Benz
+•	Pay 360
+
